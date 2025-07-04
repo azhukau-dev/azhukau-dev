@@ -5,7 +5,8 @@
 🧰 Tech stack at work: `TypeScript`, `Angular`, `Ionic`, `React (Docusaurus)`, `Node.js` and more.
 
 🧰 Tech stack for side projects:
-- Backend: `TypeScript`, `Cloudflare Workers`, `Hono`, `PostgreSQL`, `Drizzle ORM`
+- Backend: `TypeScript`, `Nest.js`, `PostgreSQL`, `Prisma ORM`
 - Frontend: `React`, `Astro`, `Next.js`, `Tailwind CSS`, `shadcn/ui`, `TanStack Query`, `tRPC`
+- Tools: `Turborepo`, `Vite`
 
 📫 Get in touch: `me [@] azhukau [dot] dev`
